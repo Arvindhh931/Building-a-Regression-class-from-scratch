@@ -15,6 +15,6 @@
 ## Reference
 - [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
 - [Ordinary least squares](https://en.wikipedia.org/wiki/Ordinary_least_squares#Simple_linear_regression_model)
-- [Gradient Descent](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1)
+- [Gradient Descent Implementation](https://www.youtube.com/watch?v=ORyfPJypKuU&list=PLKnIA16_RmvZvBbJex7T84XYRmor3IPK1)
 
 
