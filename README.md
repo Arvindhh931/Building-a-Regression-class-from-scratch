@@ -1,4 +1,5 @@
 # Case-study-Simple-Linear-Regression
+### Building our own code using gradient descent
 
 ![Alt Text](https://media.giphy.com/media/xUA7b6oaRIgzmAKpUY/giphy.gif)
 
