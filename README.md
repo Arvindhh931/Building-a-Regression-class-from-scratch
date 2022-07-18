@@ -1,5 +1,7 @@
 # Case-study-Simple-Linear-Regression
 
+![Alt Text](https://media.giphy.com/media/xUA7b6oaRIgzmAKpUY/giphy.gif)
+
 [![GPLv3 License](https://img.shields.io/badge/Python-Pandas%201.4.3-yellow.svg)](https://opensource.org/licenses/)
 [![GPLv3 License](https://img.shields.io/badge/Python-NumPy%201.19.2-green.svg)](https://opensource.org/licenses/)
 [![GPLv3 License](https://img.shields.io/badge/Python-Scikit_learn%200.20-red.svg)](https://opensource.org/licenses/)
@@ -11,6 +13,5 @@
 
 ## Reference
 - [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
-
-![Alt Text](https://media.giphy.com/media/xUA7b6oaRIgzmAKpUY/giphy.gif)
+- [Introduction to Machine Learning Algorithms: Linear Regression](https://en.wikipedia.org/wiki/Ordinary_least_squares)
 
