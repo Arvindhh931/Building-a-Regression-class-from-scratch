@@ -13,5 +13,5 @@
 
 ## Reference
 - [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
-- [Ordinary least squares](https://en.wikipedia.org/wiki/Ordinary_least_squares)
+- [Ordinary least squares](https://en.wikipedia.org/wiki/Ordinary_least_squares#Simple_linear_regression_model)
 
