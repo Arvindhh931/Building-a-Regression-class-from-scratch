@@ -8,7 +8,7 @@
 [![GPLv3 License](https://img.shields.io/badge/Python-Scikit_learn%200.20-red.svg)](https://opensource.org/licenses/)
 
 ## Objective
-- ### *`Building our own machine learning model from scratch`*
+- ### *`Building our own simple Linear regression class from scratch`*
 - ### *`Mathematical Understanding of cost function`*
 - ### *`Implementation of Batch Gradient Descent Optimization Algorithm`*
 
