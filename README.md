@@ -10,7 +10,7 @@
 ## Objective
 - ### *`Building our own machine learning model from scratch`*
 - ### *`Mathematical Understanding of cost function`*
-- ### *`Implementation of Gradient Descent Optimization Algorithm`*
+- ### *`Implementation of Batch Gradient Descent Optimization Algorithm`*
 
 ## Reference
 - [Introduction to Machine Learning Algorithms: Linear Regression](https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a)
